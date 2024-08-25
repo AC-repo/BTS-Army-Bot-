@@ -1,2 +1,2 @@
 # BTS-Army-Bot-
-Everything for the Army Bots
+Everything for the Army Bot
